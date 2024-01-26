@@ -8,4 +8,9 @@ var item = document.querySelector(".item");
     
  }
  
- const dbaonce = _.debounce()
+ debonce.addEventListener();
+ 
+
+const debonce = _.debounce(box, 1000);
+
+
