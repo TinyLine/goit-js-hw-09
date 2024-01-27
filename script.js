@@ -8,9 +8,9 @@ var item = document.querySelector(".item");
     
  }
  
- debonce.addEventListener();
+//  debonce.addEventListener();
  
 
-const debonce = _.debounce(box, 1000);
+// const debonce = _.debounce(box, 1000);
 
 
